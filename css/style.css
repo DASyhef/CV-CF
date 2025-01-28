@@ -965,6 +965,10 @@ label.button:hover {
         font-size: 1.5vw;
     }
 
+    .diplome {
+        font-size: 1vw !important;
+    }
+
     .skillzblock {
         width: 400px;
         height: 300px;
